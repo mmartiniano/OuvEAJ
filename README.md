@@ -9,6 +9,6 @@ Este projeto é um portal de ouvidoria online elaborado a suprir a carência de 
 à Escola Agrícola de Jundiaí.
 
 ## Autoria
-> Este é um projeto antigo. Da época que eu estava apenas começando nos estudos de web. Por tal, não foi feito de forma correta, nem seguindo padrões. Tampouco está otimizado. Porém, foi feito com dedicação e tenho orgulho disso.
-
 Desenvolvido por **Lucas Miguel Martiniano** como **Trabalho de Conclusão de Curso** do Técnico em Informática integrado ao Ensino Médio.
+
+> Este é um projeto antigo. Da época que eu estava apenas começando nos estudos de web. Por tal, não foi feito de forma correta, nem seguindo padrões. Tampouco está otimizado. Porém, foi feito com dedicação e tenho orgulho disso.
